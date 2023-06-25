@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ConnectionStrings>
+	
+	<ACIADB>"Server = tcp:aciaserver.database.windows.net,1433;Initial Catalog = ACIA; Persist Security Info=False;User ID = aciaserver; Password=z8DNXKisri_Pba.;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout = 30;"</ACIADB>
+	
+</ConnectionStrings>
